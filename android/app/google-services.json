@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "613149913080",
+    "project_id": "social-media-c9f3c",
+    "storage_bucket": "social-media-c9f3c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:613149913080:android:807f1e02b2e140b94a300d",
+        "android_client_info": {
+          "package_name": "com.VishSinh.social_media"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "613149913080-qvbqb47uu5c66g5nk6vb932226bb97p0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMVi9g9DE9CViWGUMzzaT1QlpU-0SgmPg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "613149913080-qvbqb47uu5c66g5nk6vb932226bb97p0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
